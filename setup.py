@@ -13,4 +13,5 @@ setup(name='kershaw',
                    'Programming Language :: Python :: 3.4'],
       url='https://github.com/SPoage/kershaw',
       author='Shane Poage',
+      author_email='SPoage@users.noreply.github.com',
       packages=find_packages())
