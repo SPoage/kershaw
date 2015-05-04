@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 
 setup(name='kershaw',
-      version='0.1.0',
+      version='0.2.0',
       description='Kershaw General Purpose Utility Library',
       classifiers=['Development Status :: 2 - Pre-Alpha',
                    'Environment :: Console',
