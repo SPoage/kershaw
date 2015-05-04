@@ -1,6 +1,11 @@
+# python stuff
 venv
 *.pyc
+# IDE/editor stuff
 .*.swp
 .idea
+# build stuff
 target
+build
+dist
 *.egg-info
